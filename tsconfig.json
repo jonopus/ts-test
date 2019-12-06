@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "module": "system",
+      "target": "ESNext",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "outFile": "./tmp/app.js",
+      "sourceMap": true,
+      "experimentalDecorators": true,
+      "baseUrl": ".",
+      "moduleResolution": "node"
+    },
+    "include": [
+        "index.ts"
+    ]
+  }
+  
